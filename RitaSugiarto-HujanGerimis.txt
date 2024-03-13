@@ -14,4 +14,8 @@ Berdua berpayung bersama
 Sepanjang jalan bergandeng tangan
 Takkan terlupakan, indahnya mesranya…
 
+<<<<<<< HEAD
 Dasheva
+=======
+rico
+>>>>>>> 2a07f45a17179910da466b718bb0c4afdf317aa7
